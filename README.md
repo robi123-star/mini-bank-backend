@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# mini-bank-backend
+>>>>>>> cffb71dd7ab644a75f2cd0e0dc2ee611275e3c88
 # Mini Bank Simpan Pinjam - Backend API
 
 This is the backend API for the Mini Bank Simpan Pinjam project.  
@@ -48,4 +52,5 @@ npm run dev
 
 ## 📬 Contact
 
+For questions or issues, please contact the project PIC or open an issue in this repository.
 For questions or issues, please contact the project PIC or open an issue in this repository.
